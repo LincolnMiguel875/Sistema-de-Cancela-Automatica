@@ -21,5 +21,7 @@ Projeto de uma cancela automatica com Arduino, utilizando sensor ultrassônico, 
   
 Nome: Lincoln Miguel Pereira da Silva 
 Rm: 24803
+Nome: Lucas Periera de Souza
+Rm : 26033
 Link do Tinkercad:
 https://www.tinkercad.com/things/2x5rnHc8z0b-sistema-de-cancela-automatica
