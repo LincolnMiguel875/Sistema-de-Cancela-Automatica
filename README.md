@@ -1,4 +1,4 @@
-# Sistema-de-Cancela-Automatica
+Sistema de Cancela Automatica
 Sistema de Cancela Automatica - Arduino
 
 Projeto de uma cancela automatica com Arduino, utilizando sensor ultrassônico, servo, LED e buzzer. O sistema controla a entrada e saída de carros, aciona alertas sonoros e visuais, e mantém a contagem de vagas.
@@ -12,13 +12,13 @@ Projeto de uma cancela automatica com Arduino, utilizando sensor ultrassônico, 
 -- Materiais
 
 - Arduino Uno  
-- Sensor Ultrassônico HC-SR04 (entrada e saída)  
+- 2 Sensores Ultrassônicos HC-SR04
 - Micro Servo  
-- LED vermelho + resistor 220Ω  
+- LED vermelho
+- resistor 220Ω  
 - Buzzer piezo  
 - Protoboard e fios
-- 
----
+  
 Nome: Lincoln Miguel Pereira da Silva 
 Rm: 24803
 Link do Tinkercad:
