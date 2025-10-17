@@ -24,4 +24,4 @@ Rm: 24803
 Nome: Lucas Periera de Souza
 Rm : 26033
 Link do Tinkercad:
-https://www.tinkercad.com/things/2x5rnHc8z0b-sistema-de-cancela-automatica
+https://www.tinkercad.com/things/2x5rnHc8z0b-sistema-de-cancela-automatica/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Ov_gF-nTs9-19w3YkYKfhUYT3gt2rifPWmfxjKMT-7k
